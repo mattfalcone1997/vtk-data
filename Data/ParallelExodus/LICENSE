@@ -1,0 +1,24 @@
+Can being crushed
+
+Files:
+    can.e.4.0
+    can.e.4.1
+    can.e.4.2
+    can.e.4.3
+
+Collection: VTK Data
+
+License: CC0 Public Domain DedicationBSD 3-Clause "New" or "Revised" License
+URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+Source URLs (can be retrieved using `wget -O FILE URL`):
+    can.e.4.0: https://www.vtk.org/files/ExternalData/SHA512/e9fad7b012901a7757d2d446a8057598b6b99824cd9d16670ff811e62b8b48c0dc723896b5e66317ea43cc768796060e327afea9204dcc5d6ab22a3bdf90fd20
+    can.e.4.1: https://www.vtk.org/files/ExternalData/SHA512/93575fefa07767cb8e56c7f758c72e9d30909292fcaddd8723bdca0c77864382b6087c194aae151a4c5a1157e4cf9bb464a4e2d173e91012c22ffbc84d370ce1
+    can.e.4.2: https://www.vtk.org/files/ExternalData/SHA512/4af0031825cda782d4bac8451d416891c14609c4134b6c1d270821bab8827843070fbfd74064b5db4da60128dc11b2209447754908dc3d949ace5034fa061a7e
+    can.e.4.3: https://www.vtk.org/files/ExternalData/SHA512/9f6827262107bfff45d660ed6a5d914e532318b86909ae4d68cc4355114b263e1114a3d80155bc6bcc86ee5ece6d90e25db62a001cbedc836de190051c21ed9f
+
+Copyright (c) 2008-Present Ken Martin, Will Schroeder, Bill Lorensen
+All rights reserved.Attribution (courtesy, not required under CC0): "Abraham Lincoln Mills
+Life Mask (1865), Smithsonian, 3D scan released under CC0 Public Domain."
+
+SPDX-License-Identifier: CC0-1.0BSD-3-Clause
