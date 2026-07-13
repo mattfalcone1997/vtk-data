@@ -18,7 +18,6 @@ Source URLs (can be retrieved using `wget -O FILE URL`):
     can.e.4.3: https://www.vtk.org/files/ExternalData/SHA512/9f6827262107bfff45d660ed6a5d914e532318b86909ae4d68cc4355114b263e1114a3d80155bc6bcc86ee5ece6d90e25db62a001cbedc836de190051c21ed9f
 
 Copyright (c) 2008-Present Ken Martin, Will Schroeder, Bill Lorensen
-All rights reserved.Attribution (courtesy, not required under CC0): "Abraham Lincoln Mills
-Life Mask (1865), Smithsonian, 3D scan released under CC0 Public Domain."
+All rights reserved.
 
 SPDX-License-Identifier: CC0-1.0BSD-3-Clause
